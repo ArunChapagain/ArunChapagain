@@ -1,6 +1,9 @@
-<h2 align="center">
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Arun Chapagain.
-</h2>
+<h3 align="center">
+<h1 align="center">Hi 👋, I'm Arun Chapagain</h1>
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Arun Chapagain.
+</h3>
 
 <p align="center">
   <a href="https://github.com/arunchapagain"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+full-stack+Developer.;Former+CEO+at+Codekavya.;Student+of+Software+Engineering"></a>
