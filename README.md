@@ -1,6 +1,11 @@
 <h3 align="center">
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Arun Chapagain</h1>
   <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> -->
+=======
+Hi I'm Arun Chapagain.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+>>>>>>> 3fb9c356b5611108aa9b4690222338f4e0e0a7a0
 </h3>
 
 <p align="center">
