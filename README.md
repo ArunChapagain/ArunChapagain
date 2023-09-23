@@ -16,14 +16,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArunChapagain&theme=dark&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunChapagain&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 👨‍💻 I love listening to Music . 🎶
+<h2>👨‍💻 I love listening to Music . 🎶</h2>
 <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
 <p align="center">
   <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
 </p>
 
-### ✍️ Random Dev Quote
+<h2>✍️ Random Dev Quote</h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
