@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Arun Chapagain</h2>
 
 <p align="center">
-  <a href="https://github.com/arunchapagain"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C++and+designer.;A+Mobile+Application+Developer.;Student+of+Computer+Engineering"></a>
+  <a href="https://github.com/arunchapagain"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+Passionate+learner%2C++and+designer.;A+Mobile+Application+Developer.;Student+of+Computer+Engineering"></a>
 </p>
 
 <h2 align="left">🌐 Connect with me:</h2>
