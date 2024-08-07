@@ -19,9 +19,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArunChapagain&theme=dark&hide_border=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunChapagain&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<h2>✍️ Random Dev Quote</h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 Arun Chapagain
