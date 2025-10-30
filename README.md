@@ -97,3 +97,14 @@
 </table>
 
 ---
+
+<p align="center">
+    <a href="https://github.com/arunchapagain#gh-light-mode-only">
+        <img src="https://raw.githubusercontent.com/arunchapagain/arunchapagain/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="GitHub Snake" width="90%"/>
+    </a>
+    <a href="https://github.com/arunchapagain#gh-dark-mode-only">
+        <img src="https://raw.githubusercontent.com/arunchapagain/arunchapagain/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake" width="90%"/>
+    </a>
+</p>
+
+---
