@@ -39,17 +39,14 @@
 <p align="left">
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/kotlin-%2302569B.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/Kotlin-%2302569B.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
-
 
 ### **⚙️ DevOps & CI/CD**  
 <p align="left">
     <img src="https://img.shields.io/badge/Github Actions-%232C3E50.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
     <img src="https://img.shields.io/badge/Codemagic-%23ff3cb4.svg?style=for-the-badge&logo=codemagic&logoColor=white" />
     <img src="https://img.shields.io/badge/Shorebird-%2300758F.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-
 </p>
 
 ### **🖥️ Working Environment**  
@@ -58,5 +55,64 @@
     <img src="https://img.shields.io/badge/Hyprland-%2300758F.svg?style=for-the-badge&logo=wayland&logoColor=white" />
     <img src="https://img.shields.io/badge/Android%20Studio-%23323330.svg?style=for-the-badge&logo=android-studio&logoColor=green" />
 </p>
+
+<table align="center">
+    <tr>
+        <th colspan="2">
+            <h4>Stats</h4>
+        </th>
+    </tr>
+    <tr>
+        <td align="left">
+            <img align="left" height="150vh" alt="Most-Used-Language"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchapagain&show_icons=true&theme=tokyonight&layout=compact" />
+        </td>
+        <td align="left">
+            <img align="left" height="150vh" alt="Github-Stats"
+                src="https://github-readme-stats.vercel.app/api?username=arunchapagain&show_icons=true&theme=tokyonight" />
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img align="left" height="150vh" alt="Profile-Overview"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=tokyonight" />
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td colspan="3" align="center"> 
+            <a href="https://github.com/arunchapagain#gh-light-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=default&layout=compact"/>
+            </a>
+            <a href="https://github.com/arunchapagain#gh-dark-mode-only">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=tokyonight"/>
+            </a> 
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/arunchapagain#gh-light-mode-only">
+                <img alt="Github-Stats"
+                     src="https://github-readme-stats.vercel.app/api?username=arunchapagain&show_icons=true&theme=default" />
+            </a>
+            <a href="https://github.com/arunchapagain#gh-dark-mode-only">
+                <img alt="Github-Stats"
+                     src="https://github-readme-stats.vercel.app/api?username=arunchapagain&show_icons=true&theme=tokyonight" />
+            </a>
+        </td>
+        <td rowspan="2" align="center">
+            <a href="https://github.com/arunchapagain#gh-light-mode-only">
+                <img alt="Most-Used-Language"
+                     src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchapagain&show_icons=true&theme=default" />
+            </a>
+            <a href="https://github.com/arunchapagain#gh-dark-mode-only">
+                <img alt="Most-Used-Language"
+                     src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchapagain&show_icons=true&theme=tokyonight" />
+            </a>
+        </td>
+    </tr>
+</table>
 
 ---
