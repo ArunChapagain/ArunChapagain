@@ -57,8 +57,6 @@
 </p>
 
 ---
-
-
 <table>
     <tr>
           <td colspan="3" align="center"> 
@@ -76,7 +74,7 @@
                      src="https://github-readme-stats.vercel.app/api?username=arunchapagain&show_icons=true&theme=default" />
             </picture>
         </td>
-        <td rowspan="2" align="center">
+        <td align="center">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arunchapagain&show_icons=true&theme=tokyonight" />
                 <img alt="Most-Used-Language"
@@ -84,18 +82,16 @@
             </picture>
         </td>
     </tr>
-   
+    <tr>
+        <td colspan="3" align="center">
+            <a href="https://github.com/arunchapagain#gh-light-mode-only">
+                <img src="https://raw.githubusercontent.com/arunchapagain/arunchapagain/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="GitHub Snake" width="90%"/>
+            </a>
+            <a href="https://github.com/arunchapagain#gh-dark-mode-only">
+                <img src="https://raw.githubusercontent.com/arunchapagain/arunchapagain/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake" width="90%"/>
+            </a>
+        </td>
+    </tr>
 </table>
-
----
-
-<p align="center">
-    <a href="https://github.com/arunchapagain#gh-light-mode-only">
-        <img src="https://raw.githubusercontent.com/arunchapagain/arunchapagain/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="GitHub Snake" width="90%"/>
-    </a>
-    <a href="https://github.com/arunchapagain#gh-dark-mode-only">
-        <img src="https://raw.githubusercontent.com/arunchapagain/arunchapagain/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake"/>
-    </a>
-</p>
 
 ---
