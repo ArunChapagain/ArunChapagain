@@ -1,3 +1,6 @@
+<br>
+<h2 align="center">Hi 👋, I'm Arun Chapagain</h2>
+
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
