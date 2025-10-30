@@ -63,7 +63,7 @@
                 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=default&layout=compact"/>
             </a>
             <a href="https://github.com/arunchapagain#gh-dark-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=tokyonight"/>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=default&layout=compact"/>
             </a> 
         </td>
     </tr>
