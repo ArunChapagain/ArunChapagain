@@ -61,10 +61,10 @@
 
 <table>
     <tr>
-        <td colspan="3" align="center"> 
+          <td colspan="3" align="center"> 
             <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=tokyonight&layout=compact">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=default&layout=compact" alt="GitHub Streak Stats" />
+                <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=arunchapagain&theme=tokyonight&layout=compact">
+                <img src="https://streak-stats.demolab.com/?user=arunchapagain&theme=default&layout=compact" alt="GitHub Streak Stats" />
             </picture>
         </td>
     </tr>
