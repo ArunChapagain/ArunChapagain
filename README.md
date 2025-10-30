@@ -5,8 +5,6 @@
   </a>
 </p>  
 
----
-## **🚀 Connect With Me**  
 <h4 align="center">
     <a href="https://www.discord.com/users/917055232083640341" target="_blank">
         <img alt="Discord"
@@ -22,7 +20,9 @@
     </a>
 </h4>
 
-## **🚀 About Me**  
+---
+
+## **👦 About Me**  
 - 🏠 **Flutter Developer** | Building Scalable Mobile & Web Apps 
 - 🚀 **Currently Exploring:** Computer networking
 - 💬 **Love talking about:** Flutter, DevOps, Creatively crashing production environments
