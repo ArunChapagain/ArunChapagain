@@ -56,30 +56,6 @@
     <img src="https://img.shields.io/badge/Android%20Studio-%23323330.svg?style=for-the-badge&logo=android-studio&logoColor=green" />
 </p>
 
-<table align="center">
-    <tr>
-        <th colspan="2">
-            <h4>Stats</h4>
-        </th>
-    </tr>
-    <tr>
-        <td align="left">
-            <img align="left" height="150vh" alt="Most-Used-Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchapagain&show_icons=true&theme=tokyonight&layout=compact" />
-        </td>
-        <td align="left">
-            <img align="left" height="150vh" alt="Github-Stats"
-                src="https://github-readme-stats.vercel.app/api?username=arunchapagain&show_icons=true&theme=tokyonight" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <img align="left" height="150vh" alt="Profile-Overview"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=tokyonight" />
-        </td>
-    </tr>
-</table>
-
 <table>
     <tr>
         <td colspan="3" align="center"> 
