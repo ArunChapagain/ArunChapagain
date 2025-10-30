@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Application+Developer;Building+Scalable+Apps;Tech+Enthusiast;Loves+Music%2C+Movies%2C+and+;&Cloudsenter=true&width=600&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Mobile+Application+Developer;Building+Scalable+Apps;Tech+Enthusiast;Loves+Music%2C+Movies%2C+and+Clouds;&Center=true&width=600&height=40">
   </a>
 </p>  
 
