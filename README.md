@@ -56,37 +56,32 @@
     <img src="https://img.shields.io/badge/Android%20Studio-%23323330.svg?style=for-the-badge&logo=android-studio&logoColor=green" />
 </p>
 
+---
+
+
 <table>
     <tr>
         <td colspan="3" align="center"> 
-            <a href="https://github.com/arunchapagain#gh-light-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=default&layout=compact"/>
-            </a>
-            <a href="https://github.com/arunchapagain#gh-dark-mode-only">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=tokyonight"/>
-            </a> 
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=tokyonight&layout=compact">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunchapagain&theme=default&layout=compact" alt="GitHub Streak Stats" />
+            </picture>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/arunchapagain#gh-light-mode-only">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=arunchapagain&show_icons=true&theme=tokyonight" />
                 <img alt="Github-Stats"
                      src="https://github-readme-stats.vercel.app/api?username=arunchapagain&show_icons=true&theme=default" />
-            </a>
-            <a href="https://github.com/arunchapagain#gh-dark-mode-only">
-                <img alt="Github-Stats"
-                     src="https://github-readme-stats.vercel.app/api?username=arunchapagain&show_icons=true&theme=tokyonight" />
-            </a>
+            </picture>
         </td>
         <td rowspan="2" align="center">
-            <a href="https://github.com/arunchapagain#gh-light-mode-only">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arunchapagain&show_icons=true&theme=tokyonight" />
                 <img alt="Most-Used-Language"
                      src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchapagain&show_icons=true&theme=default" />
-            </a>
-            <a href="https://github.com/arunchapagain#gh-dark-mode-only">
-                <img alt="Most-Used-Language"
-                     src="https://github-readme-stats.vercel.app/api/top-langs?username=arunchapagain&show_icons=true&theme=tokyonight" />
-            </a>
+            </picture>
         </td>
     </tr>
 </table>
