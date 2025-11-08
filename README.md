@@ -29,7 +29,7 @@
 - 🏠 **Flutter Developer** | Building Scalable Mobile & Web Apps 
 - 🚀 **Currently Exploring:** Computer Networking
 - 💬 **Love talking about:** Flutter, DevOps, Creatively crashing production environments
-- 🎵 **Vibes:** Music, Movies, and Clouds
+- 🎵 **Vibes:** Code, Music and Movie
 - 🌎 **Open to remote work opportunities**  
 
 > **"Never stop learning, never stop growing. Level up every day!"**  
