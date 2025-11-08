@@ -57,6 +57,7 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
     <img src="https://img.shields.io/badge/Hyprland-%2300758F.svg?style=for-the-badge&logo=wayland&logoColor=white" />
     <img src="https://img.shields.io/badge/Android%20Studio-%23323330.svg?style=for-the-badge&logo=android-studio&logoColor=green" />
+    <img src="https://img.shields.io/badge/Kitty%2302569B.svg?style=for-the-badge&logo=kitty&logoColor=white" />
 </p>
 
 ---
