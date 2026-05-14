@@ -26,7 +26,7 @@
 ---
 
 ## **👦 About Me**  
-- 🏠 **Flutter Developer** | Building Scalable Mobile & Web Apps 
+- 🏠 **Mobile Developer** | Building Scalable Mobile Apps 
 - 🚀 **Currently Exploring:** Computer Networking
 - 💬 **Love talking about:** Flutter, DevOps, Creatively crashing production environments
 - 🎵 **Vibes:** Code, Music and Movie
